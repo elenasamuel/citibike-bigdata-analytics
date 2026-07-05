@@ -1,5 +1,4 @@
-# citibike-bigdata-analytics
-Big Data analytics pipeline using Apache Spark, Spark SQL, Spark ML, and Parquet-based interactive visualizations.
+
 
 # Citi Bike Big Data Analytics
 
